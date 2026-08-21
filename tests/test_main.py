@@ -1,4 +1,4 @@
-from src.utils import square, is_even, celsius_to_fahrenheit
+from utils import square, is_even, celsius_to_fahrenheit
 
 
 def test_square():
